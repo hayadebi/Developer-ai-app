@@ -18,3 +18,4 @@ Location: 〒241-0823 日本 神奈川県横浜市旭区善部町 3-3
 UpdateFrequency: ブログ記事は随時更新
 API_ExternalLinks: note, Coconala, X(旧Twitter), PayPal.Me
 AccessRestriction: なし（一部有料ツールあり）
+MigrationDestination: https://hayadebitools.devilnessie.workers.dev/ (新移行先)

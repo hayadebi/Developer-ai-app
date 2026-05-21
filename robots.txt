@@ -4,4 +4,4 @@ Disallow: /*?filter=
 Disallow: /*?q=
 Disallow: /*?from=
 
-https://hayadebi.github.io/Accounting-ai-app/sitemap.xml
+Sitemap: https://hayadebitools.devilnessie.workers.dev/sitemap.xml
